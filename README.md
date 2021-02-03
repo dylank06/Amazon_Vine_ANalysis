@@ -5,7 +5,6 @@
 - The purpose of the analysis was to determine if there were any positivity bias for in video game reviews in the Amazon Vine Program. 
 
 ## Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions:
 
 How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
