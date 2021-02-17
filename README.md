@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: 
 
-- The purpose of the analysis was to determine if there were any positivity bias for in video game reviews in the Amazon Vine Program. 
+- The purpose of the analysis was to determine if there were any positivity bias for in video game reviews in the Amazon Vine Program. The analysis was done using pythons pyspark library combined with an AWS container and a PostgreSQL database.
 
 ## Results: 
 
